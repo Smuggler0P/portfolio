@@ -312,7 +312,7 @@ span {
   }
 
   .home .home-content h1 {
-    font-size: 5rem;
+    font-size: 6rem;
   }
 
   .home .home-content h3 {
@@ -320,13 +320,13 @@ span {
   }
 
   .home .home-content p {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
   }
 
   .home .home-img img {
     width: 30vw;
     height: 30vw;
-    margin-top: -5rem;
+    margin-top: -8rem;
     box-shadow: 0 0 20px var(--main-color);
   }
 
